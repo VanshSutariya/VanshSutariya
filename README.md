@@ -8,8 +8,6 @@
 
 [![An image of @vanshsutariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshsutariya)](https://holopin.io/@vanshsutariya)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VanshSutariya&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/VanshSutariya/github-profile-trophy)
-
 - 🔭 I’m currently working on *Web Development.*
 
 - 🌱 I’m currently learning *Data Structures And Algorithms.*
