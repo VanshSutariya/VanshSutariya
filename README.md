@@ -10,15 +10,9 @@
 
 - 🔭 I’m currently working on *Web Development.*
 
-- 🌱 I’m currently learning *Data Structures And Algorithms.*
-
 - 👯 I’m looking to collaborate on *Heckathons and Open Source Contributions.*
 
 - 🤝 I’m looking for help with *Opensource Contributions.*
-
-- 👨‍💻 All of my projects are available at [https://github.com/VanshSutariya](https://github.com/VanshSutariya)
-
-- 💬 Ask me about *Java,PHP,Python,Data Structures And Algorithms.*
 
 - 📫 How to reach me **sutariyavansh@gmail.com**
 
