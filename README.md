@@ -8,7 +8,7 @@
 
 [![An image of @vanshsutariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshsutariya)](https://holopin.io/@vanshsutariya)
 
-- 🔭 I’m currently working on *Web Development.*
+- 🔭 I’m currently working on *Software Development.*
 
 - 👯 I’m looking to collaborate on *Heckathons and Open Source Contributions.*
 
